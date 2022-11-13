@@ -6,3 +6,5 @@
 - 🧑 19 years old
 - 🎓 Studying Informatics Engineering here in Indonesia
 - 🌱 I’m currently learning Python, Java, and Lua
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezerinz)](https://github.com/anuraghazra/github-readme-stats)
