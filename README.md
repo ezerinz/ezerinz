@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Edwin
 <!--
-**ezerinz/ezerinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ezerinz/ezerinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### About Me
 - 🧑 19 years old
