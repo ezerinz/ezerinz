@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning Python, Java, and Lua
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezerinz&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ezerinz&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
